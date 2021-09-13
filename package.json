@@ -1,0 +1,21 @@
+{
+  "name": "social-media-links",
+  "version": "0.0.1",
+  "description": "A simple embeddable whatsapp icon for your website",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BEN00262/whatsapp-embed-icon.git"
+  },
+  "keywords": [],
+  "author": "john kerama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BEN00262/whatsapp-embed-icon/issues"
+  },
+  "homepage": "https://github.com/BEN00262/whatsapp-embed-icon#readme"
+}

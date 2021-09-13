@@ -1,5 +1,5 @@
 #### <u>SIMPLE EMBEDDABLE WHATSAPP ICON</u>
-used on the browser only
+A simple embeddable whatsapp icon for your website
 
 ![](images/result.png)
 
@@ -11,12 +11,12 @@ used on the browser only
         (function (){
             let script = document.createElement('script')
             script.type = "text/javascript";
-            script.src = "https://github.com/BEN00262/whatsapp-embed-icon/lib/index.js";
+            script.src = "https://raw.githubusercontent.com/BEN00262/whatsapp-embed-icon/main/lib/index.js";
 
             script.addEventListener('load', function () {
                 DisplaySocialMediaIcon({
                     contact:  "phone number without the leading +",
-                    call_to_action: "Welcom, how can we help you? ", // replace with your message
+                    call_to_action: "Welcome, how can we help you? ", // replace with your message
                     position: "right" // "right | left"
                 })
             })
