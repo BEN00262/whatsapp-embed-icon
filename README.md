@@ -11,7 +11,7 @@ A simple embeddable whatsapp icon for your website
         (function (){
             let script = document.createElement('script')
             script.type = "text/javascript";
-            script.src = "https://raw.githubusercontent.com/BEN00262/whatsapp-embed-icon/main/lib/index.js";
+            script.src = "https://cdn.jsdelivr.net/gh/BEN00262/whatsapp-embed-icon/lib/index.js";
 
             script.addEventListener('load', function () {
                 DisplaySocialMediaIcon({
